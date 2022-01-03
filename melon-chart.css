@@ -142,7 +142,7 @@ textarea:focus::-webkit-input-placeholder {
 .rank-song > a > img {
     width: 60px;
     height: 60px;
-    padding: 15px;
+    margin: 15px;
 }
 
 .song-box {
